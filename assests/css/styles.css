@@ -3,6 +3,10 @@ img {
     height: 200px;
 }
 
+body{
+    height: 100vh;
+}
+
 /*.inicioPor{
     background-image: url("JulioApofis.github.io/assests/img/inicio.jpeg");
     background-repeat: no-repeat;
